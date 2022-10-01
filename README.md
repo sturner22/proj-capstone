@@ -1,5 +1,5 @@
  # Google Data Analytics Professional Certificate Capstone Project
- ## Cyclistic Bikeshare Case Study
+ ## Cyclistic Bike-share Case Study
 
 I completed this case study for the Google Data Analytics Professional Certificate capstone project. To organize the project, I followed the six phases of the data analysis process, which are outlined below. 
 
