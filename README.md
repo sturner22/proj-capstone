@@ -50,8 +50,7 @@ Based on my analysis, these are my top three recommendations for Cyclistic:
 
 Finally, if Cyclistic is able to obtain an email address or phone number from casual riders when they purchase a single-ride or all-day pass, they should consider surveying casual riders to gather more information about how and why they use Cyclistic bikes. The survey results will likely provide additional insight into how Cyclistic can tailor their membership options to attract more annual members. 
 
-##### Note: 
-Cyclistic is a fictional company 
+<b>Note:</b> Cyclistic is a fictional company. 
 
 
 
