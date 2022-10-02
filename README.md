@@ -40,7 +40,7 @@ Through the analysis process, I realized that the data had some limitations:
 * There was no information provided about the rider, such as age, or a unique identifier for the specific rider (there was just a unique ride id for each trip). This additional detail may have revealed other relationships between age group and ride patterns, or it may have shown if the same casual riders were logging a lot of trips.
 
 ### Share 
-I created a Tableau dashboard to summarize the key differences between casual riders and annual members. View this dashboard here: https://public.tableau.com/app/profile/sarah.turner4702/viz/CyclisticBikeSharecasestudy/Locationrideduration_1
+I created a Tableau dashboard to summarize the key differences between casual riders and annual members. View this dashboard here: https://public.tableau.com/app/profile/sarah.turner4702/viz/CyclisticBikeShareCaseStudy_16647420931620/WeeklyTrends
 
 ### Act
 Based on my analysis, these are my top three recommendations for Cyclistic: 
