@@ -44,6 +44,8 @@ Through the analysis process, I realized that the data had some limitations:
 ### Share 
 I created a Tableau dashboard to summarize the key differences between casual riders and annual members. View this dashboard here: https://public.tableau.com/app/profile/sarah.turner4702/viz/CyclisticBikeShareCaseStudy_16647420931620/WeeklyTrends
 
+<b>Updated Dashboard:</b> https://public.tableau.com/app/profile/sarah.turner4702/viz/CyclisticBikeShareCaseStudyUpdated/CyclisticDashboard?publish=yes
+
 ### Act
 Based on my analysis, these are my top three recommendations for Cyclistic: 
 * The data shows that casual riders log the most trips on the weekends. Based on this information, I recommend Cyclistic consider creating membership categories for weekends only. The weekends-only category would be a type of annual membership that includes trips only on weekends. Since weekends-only members may also occassionally want to rent a bike during a weekday, Cyclistic can offer a discounted rate for weekday trips to make this membership option even more attractive. 
