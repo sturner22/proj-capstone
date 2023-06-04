@@ -5,6 +5,8 @@ I completed this case study for the Google Data Analytics Professional Certifica
 
 This repository contains the R code I wrote throughout the cleaning, exploration, and analysis process. My main takeaways from the data are presented in a Tableau dashboard, which you can access here: https://public.tableau.com/app/profile/sarah.turner4702/viz/CyclisticBikeShareCaseStudy_16647420931620/WeeklyTrends
 
+<b>UPDATE:</b> The Google Data Analytics course provided a high-level overview of Tableau. I completed Maven Analytic's Intro to Tableau Desktop course, and I decided to update and improve this dashboard after learning a lot more about all of the formatting tools in Tableau. Check out my updated dashboard here: https://public.tableau.com/app/profile/sarah.turner4702/viz/CyclisticBikeShareCaseStudyUpdated/CyclisticDashboard?publish=yes
+
 ### Ask
 Cyclistic, a bike share company in Chicago, wants to increase its number of annual memberships. The marketing team seeks to understand how casual riders and riders with annual memberships use Cyclistic bikes differently. These insights will enable the team to devise a new marketing strategy to convert casual riders to annual members, as the company’s finance analysts have determined that annual members are more profitable than casual riders. Cyclistic customers who purchase a single ride pass or full-day pass are categorized as casual riders, and customers who purchase an annual pass are annual members. 
 
